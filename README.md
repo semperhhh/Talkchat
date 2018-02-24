@@ -4,7 +4,7 @@
 
 ### 1. SDK工作流程
 
-![屏幕快照 2017-09-13 下午2.04.49](/Users/zhangpenghui/Desktop/屏幕快照 2017-09-13 下午2.04.49.png)
+![屏幕快照 2017-09-13 下午2.04.49](http://olnx80yq4.bkt.clouddn.com/%E6%8E%A8%E9%80%81%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 * 如果开发者需要推送服务,请在talk99后台中设置推送的app相关资料,申请相应的talk99SDK需要的appkey.
 * 如果开发者需要用到talk99服务端做推送消息,需要将app对应的apns推送证书上传到talk99后台,推送证书相关详情[苹果开发者](https://developer.apple.com/)
